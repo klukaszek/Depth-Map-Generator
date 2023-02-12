@@ -13,7 +13,7 @@
 
 ## Goals
 
-- My goal with this project is to write a python program that can generate depth map information from an image, a video and a connected camera.
+- My goal with this project is to write a python program that can generate depth map information from an image, a video, or a connected device.
 
 ## Further Steps
 - I would like to use the frame depth information to generate 3D scenes using point clouds once I learn more about Open3D.
