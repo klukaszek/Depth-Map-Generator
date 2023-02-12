@@ -1,5 +1,7 @@
 # Depth Map Generator
 
+![alt text](https://github.com/klukaszek/Depth-Map-Generator/blob/main/Example.png)
+
 ## Dependencies
     - Python <= 3.7.9
     - Pip
